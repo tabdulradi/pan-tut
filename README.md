@@ -1,2 +1,1 @@
-# pan-tut
-sbt tut + pandoc
+THIS BRANCH HAS NO LICENSE .. GOTO MASTER BRANCH
